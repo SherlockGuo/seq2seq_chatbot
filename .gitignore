@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+*/.DS_Store
+*../*/.DS_Store
+__pycache__/
+*/__pycahche__/
+*.pyc
+*/*.pyc
+*/*/__pycache__/
+*/*/*.pyc
+model_data/*
+train_data/*
